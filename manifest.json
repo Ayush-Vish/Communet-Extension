@@ -11,7 +11,7 @@
         "48": "logo/logo-48.png",
         "128": "logo/logo-128.png"
     },  
-    "options_page": "settings/settings.html",
+
     "action": {
         "default_title": "Chrome Addon v3 Starter",
         "default_popup": "./popup.html"
